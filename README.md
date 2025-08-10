@@ -104,7 +104,7 @@ Figure 3: Flow field prediction visualization: our proposed method (Legend-KINN)
 We compared the training time and epochs needed for different methods to reach L2 relative errors of 50%, 20%, and 10%. (Note: "N/A" means the model failed to converge.)
 
 ![LegendKINN first figure](https://github.com/zhang-zhuo001/misc/blob/main/time_cylinder.png?raw=true)
-Figure 1: Comparison of Time and Epochs for Different Methods to Achieve 50%, 20%, and 10% L2 Relative Error in Flow Past a Circular Cylinder.
+Figure 4: Comparison of Time and Epochs for Different Methods to Achieve 50%, 20%, and 10% L2 Relative Error in Flow Past a Circular Cylinder.
 
 The results show Legend-KINN consistently has the best convergence, achieving target errors with significantly less time and fewer epochs than other methods.
 
