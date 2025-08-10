@@ -12,7 +12,7 @@
 > Note: This project is currently under development and awaiting peer review of a research paper.
 
 <p align="center">
-<img src="https://github.com/zzzzzzhang1/misc/blob/main/run.png?raw=true" width="860"> <br>
+<img src="https://github.com/zhang-zhuo001/misc/blob/main/run.png?raw=true" width="860"> <br>
 
 </p>
 
@@ -93,17 +93,17 @@ python vis.py
 ![LegendKINN second figure](https://github.com/zhang-zhuo001/misc/blob/main/cylinder_mlpvslegend%20(1).png?raw=true)
 Figure 1: Flow field prediction visualization: our proposed method (Legend-KINN) vs. MLP in Flow Past a Circular Cylinder.
 
-![LegendKINN third figure](https://github.com/zzzzzzhang1/misc/blob/main/flap_mlpvslegend.png?raw=true)
+![LegendKINN third figure](https://github.com/zhang-zhuo001/misc/blob/main/flap_mlpvslegend.png?raw=true)
 Figure 2: Flow field prediction visualization: our proposed method (Legend-KINN) vs. MLP in Flow Over a Narrow Column.
 
-![LegendKINN third figure](https://github.com/zzzzzzhang1/misc/blob/main/forward_mlpvslegend.png?raw=true)
+![LegendKINN third figure](https://github.com/zhang-zhuo001/misc/blob/main/forward_mlpvslegend.png?raw=true)
 Figure 3: Flow field prediction visualization: our proposed method (Legend-KINN) vs. MLP in Flow Over a Forward-Facing Step.
 
 
 ## Models
 We compared the training time and epochs needed for different methods to reach L2 relative errors of 50%, 20%, and 10%. (Note: "N/A" means the model failed to converge.)
 
-![LegendKINN first figure](https://github.com/zzzzzzhang1/misc/blob/main/time_cylinder.png?raw=true)
+![LegendKINN first figure](https://github.com/zhang-zhuo001/misc/blob/main/time_cylinder.png?raw=true)
 Figure 1: Comparison of Time and Epochs for Different Methods to Achieve 50%, 20%, and 10% L2 Relative Error in Flow Past a Circular Cylinder.
 
 The results show Legend-KINN consistently has the best convergence, achieving target errors with significantly less time and fewer epochs than other methods.
