@@ -90,7 +90,7 @@ To run the evaluation and generate visualizations, simply execute the following 
 python vis.py
 ```
 
-![LegendKINN second figure](https://github.com/zzzzzzhang1/misc/blob/main/cylinder_mlpvslegend%20(1).png?raw=true)
+![LegendKINN second figure](https://github.com/zhang-zhuo001/misc/blob/main/cylinder_mlpvslegend%20(1).png?raw=true)
 Figure 1: Flow field prediction visualization: our proposed method (Legend-KINN) vs. MLP in Flow Past a Circular Cylinder.
 
 ![LegendKINN third figure](https://github.com/zzzzzzhang1/misc/blob/main/flap_mlpvslegend.png?raw=true)
