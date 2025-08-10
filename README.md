@@ -143,4 +143,5 @@ Our implementation is based on several excellent open-source projects:
   * [TSONN](https://github.com/Cao-WenBo/TSONN)
   * [KINN](https://github.com/yizheng-wang/Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN)
   * [KAN](https://github.com/KindXiaoming/pykan)
+  * [μ-PINNs](https://www.tandfonline.com/doi/abs/10.1080/10618562.2023.2295286)
 
