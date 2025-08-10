@@ -27,7 +27,7 @@ The complete code, detailed documentation, and final model weights will be relea
 ## Updates
 * 📝August, 2025: This repository has been created with a partial release of the code and weights.
 
-* 📝May, 2025: The paper has been submitted for review.
+* 📝Apr, 2025: The paper has been submitted for review.
 ---
 
 ## How to Use？
