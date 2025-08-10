@@ -112,10 +112,10 @@ The results show Legend-KINN consistently has the best convergence, achieving ta
 ### Legend-KINN trained on Cylinder (flow around a circular cylinder)
 | Model                                                                                                    | Layers | Params | FLOP  | Log |
 |:---------------------------------------------------------------------------------------------------------|   :---:    |  :---: |  :---:  |  :---:  |
-| [MLP (nu=0.01)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_femto.pth)         | [2, 46, 46, 46, 3] | 4.603 | 285,568 | [log](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_femto.csv) |
-| [MLP (nu=0.02)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_kobe.pth)          | [2, 46, 46, 46, 3] | 4.603 | 285,568 |  [log](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_kobe.csv) |
-| [Legend-KINN (nu=0.01)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_tiny.pth)  | [2, 20, 20, 20, 3] | 4,500 | 65,536 | [log](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_tiny.csv) |
-| [Legend-KINN (nu=0.02)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_small.pth) | [2, 20, 20, 20, 3] | 4,500 | 65,536 | [log](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_small.csv) |
+| [MLP (nu=0.01)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_femto.pth)         | [2, 46, 46, 46, 3] | 4.603 | 285,568 | [log](https://github.com/zhang-zhuo001/Legend-KINN/releases/download/model/0.01_mlp.csv) |
+| [MLP (nu=0.02)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_kobe.pth)          | [2, 46, 46, 46, 3] | 4.603 | 285,568 |  [log](https://github.com/zhang-zhuo001/Legend-KINN/releases/download/model/0.02_mlp.csv) |
+| [Legend-KINN (nu=0.01)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_tiny.pth)  | [2, 20, 20, 20, 3] | 4,500 | 65,536 | [log](https://github.com/zhang-zhuo001/Legend-KINN/releases/download/model/0.01_legend.csv) |
+| [Legend-KINN (nu=0.02)](https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_small.pth) | [2, 20, 20, 20, 3] | 4,500 | 65,536 | [log](https://github.com/zhang-zhuo001/Legend-KINN/releases/download/model/0.02_legend.csv) |
 
 
 
