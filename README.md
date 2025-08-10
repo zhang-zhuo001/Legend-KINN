@@ -99,8 +99,7 @@ Figure 2: Flow field prediction visualization: our proposed method (Legend-KINN)
 ![LegendKINN third figure](https://github.com/zhang-zhuo001/misc/blob/main/forward_mlpvslegend.png?raw=true)
 Figure 3: Flow field prediction visualization: our proposed method (Legend-KINN) vs. MLP in Flow Over a Forward-Facing Step.
 
-
-## Models
+## Convergence Efficiency
 We compared the training time and epochs needed for different methods to reach L2 relative errors of 50%, 20%, and 10%. (Note: "N/A" means the model failed to converge.)
 
 ![LegendKINN first figure](https://github.com/zhang-zhuo001/misc/blob/main/time_cylinder.png?raw=true)
