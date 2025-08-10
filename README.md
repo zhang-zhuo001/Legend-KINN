@@ -38,7 +38,7 @@ PyTorch, numpy, and matplotlib.
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/zhang-zhuo001/Legend-KINN.git
 cd your-repo-name
 ```
 
