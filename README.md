@@ -39,7 +39,7 @@ Clone this repository and install the dependencies:
 
 ```bash
 git clone https://github.com/zhang-zhuo001/Legend-KINN.git
-cd your-repo-name
+cd Legend-KINN
 ```
 
 Data preparation: For your convenience, we have provided an example dataset in the [data](/data/). folder. This data is structured to work directly with our scripts.
