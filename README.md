@@ -9,7 +9,7 @@
 
 <p align="center"><em>Zhuo Zhang, Xiong Xiong, Sen Zhang, Wei Wang, Yanxu Zhong, Canqun Yang, Xi Yang</em></p>
 
-> Note: This project is currently under development and awaiting peer review of a research paper.
+> Note: Our paper has been submitted and is currently in the peer review process.
 
 <p align="center">
 <img src="https://github.com/zhang-zhuo001/misc/blob/main/run.png?raw=true" width="860"> <br>
