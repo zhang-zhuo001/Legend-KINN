@@ -7,7 +7,7 @@
 [//]: # (    <img src="https://img.shields.io/badge/arXiv-2405.07992-b31b1b.svg?style=flat" /></a>)
 
 
-<p align="center"><em>Zhuo Zhang, Xiong Xiong, Sen Zhang, Wei Wang, Yanxu Zhong, Canqun Yanga, Xi Yang</em></p>
+<p align="center"><em>Zhuo Zhang, Xiong Xiong, Sen Zhang, Wei Wang, Yanxu Zhong, Canqun Yang, Xi Yang</em></p>
 
 > Note: This project is currently under development and awaiting peer review of a research paper.
 
