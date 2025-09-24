@@ -9,7 +9,7 @@
 
 <p align="center"><em>Zhuo Zhang, Xiong Xiong, Sen Zhang, Wei Wang, Yanxu Zhong, Canqun Yang, Xi Yang</em></p>
 
-> Note: Our paper has been submitted and is currently in the peer review process.
+> Note: The pretrained weights and results from the paper can be found on the [Releases page](https://www.google.com/search?q=https://github.com/zhang-zhuo001/Legend-KINN/releases/tag/model)
 
 <p align="center">
 <img src="https://github.com/zhang-zhuo001/misc/blob/main/run.png?raw=true" width="860"> <br>
@@ -17,14 +17,13 @@
 </p>
 
 
-This is a PyTorch implementation of Legend-KINN proposed by our paper "Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving". 
-
-We are open-sourcing a partial implementation of the core code, pretrained weights, and some experimental results for the community to preview and use.
-
-The complete code, detailed documentation, and final model weights will be released upon the paper's official acceptance.
+This is the PyTorch implementation of Legend-KINN, proposed by our paper "Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving", published in Expert Systems With Applications.
 
 
 ## Updates
+* 📝September, 2025: Our paper has been accepted!
+
+
 * 📝August, 2025: This repository has been created with a partial release of the code and weights.
 
 * 📝Apr, 2025: The paper has been submitted for review.
