@@ -123,8 +123,10 @@ The results show Legend-KINN consistently has the best convergence, achieving ta
 @article{zhang2025legend,
   title={Legend-KINN: A Legendre Polynomial-Based Kolmogorov-Arnold-Informed Neural Network for Efficient PDE Solving},
   author={Zhang, Zhuo and Xiong, Xiong and Zhang, Sen and Wang, Wei and Zhong, Yanxu and Yang, Canqun and Yang, Xi},
-  journal={arXiv preprint arXiv:XXXX.XXXXX (Coming Soon)},
-  year={2025}
+  journal={Expert Systems with Applications},
+  pages={129839},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 ## Contact
