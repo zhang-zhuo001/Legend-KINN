@@ -40,7 +40,7 @@ class Net(torch.nn.Module):
                 x = torch.tanh(x)
         return x
 
-class TSONN():
+class Legend():
 
     def __init__(self, layers, device):
         self.loss_fn = torch.nn.MSELoss(reduction='mean')
@@ -264,7 +264,7 @@ if __name__ == '__main__':
         Data = np.load(data_filename)
 
         layers = [2, 20, 20, 20, 3]
-        nn = TSONN(layers, device)
+        nn = Legend(layers, device)
 
         x = Data[:, 0]
         y = Data[:, 1]
